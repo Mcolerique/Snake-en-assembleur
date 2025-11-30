@@ -66,7 +66,7 @@ Le jeu reprend le concept classique du **Snake** :
 
 ## 🚀 Lancer le jeu
 
-### 1️⃣ Ouvrir le projet dans MARS
+###  Ouvrir le projet dans MARS
 
 1. Télécharger le fichier source (ex. `snake.asm`)  
 2. Ouvrir le fichier dans **MARS** 
